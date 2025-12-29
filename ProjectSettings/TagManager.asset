@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - FristCam
-  - ThirdCam
-  - FreeSetCam
-  - Target
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -19,8 +15,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Building
+  - Terrain
   - 
   - 
   - 
